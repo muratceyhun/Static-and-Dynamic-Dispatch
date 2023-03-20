@@ -100,6 +100,8 @@ Sometimes referred to as “Direct dispatch”. At compile time the compiler alr
  The method is marked private or final. As a private method can’t be overridden by subclasses
  The method is defined in an extension
  Note that when annotating a method with @objc or dynamic will override the dispatching mechanism to be dynamic dispatch
+ 
+ 
 */
 
 
