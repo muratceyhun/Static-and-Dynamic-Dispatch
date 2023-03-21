@@ -20,8 +20,6 @@ import Foundation
 //        print("B: \(number)")
 //    }
 //}
-//
-//
 //let instance: A = B()
 //instance.execute()
 
