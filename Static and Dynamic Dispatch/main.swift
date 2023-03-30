@@ -23,7 +23,6 @@ import Foundation
 //let instance: A = B()
 //instance.execute()
 
-
 protocol Shape {
     func draw()           //Dynamic
 }
