@@ -104,5 +104,3 @@ Sometimes referred to as “Direct dispatch”. At compile time the compiler alr
 //What is method swizzling?
 //Method swizzling is the process of changing the implementation of an existing selector at runtime. Simply speaking, we can change the functionality of a method at runtime.This is possible with the power of objective C runtime.
 
-
-
